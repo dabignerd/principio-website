@@ -1,6 +1,9 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+
 * {
     margin: 0px;
     padding: 0px;
+    font-family: 'Poppins', sans-serif;
 }
 
 h1 {
@@ -9,8 +12,12 @@ h1 {
 }
 
 img {
-    margin-left: 45vw;
-    padding-top: 20vh;
+    /* center "pi" image */
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+
+    margin-top: 20vh;
 }
 
 p {
