@@ -26,31 +26,29 @@ p {
     padding-top: 1%;    
 }
 
+/* hide navbar when user scrolls down, but reappear when user scrolls up */
 #navbar {
-    overflow: hidden;
     background-color: #333;
+    position: fixed;
+    top: 0;
+    width: 100%;
+    transition: top 0.3s;
 }
   
 #navbar a {
     float: left;
     display: block;
-    color: #f2f2f2;
+    color: white;
     text-align: center;
-    padding: 14px;
+    padding: 15px;
     text-decoration: none;
 }
   
-.content {
-    padding: 16px;
+#navbar a:hover {
+    background-color: #ddd;
+    color: black;
 }
-  
-.sticky {
-    position: fixed;
-    top: 0;
-    width: 100%;
-}
-  
 
-.sticky + .content {
-    padding-top: 60px;
+#holder {
+    height: 100vh;
 }

@@ -1,13 +1,13 @@
-window.onscroll = function() {myFunction()};
+var prevScrollpos = window.pageYOffset;
 
-var navbar = document.getElementById("navbar");
-
-var sticky = navbar.offsetTop;
-
-function myFunction() {
-  if (window.pageYOffset >= sticky) {
-    navbar.classList.add("sticky")
-  } else {
-    navbar.classList.remove("sticky");
+window.onscroll = function() {
+  var currentScrollPos = window.pageYOffset;
+  if (prevScrollpos > currentScrollPos) {
+    document.getElementById("navbar").style.top = "0";
   }
+  else {
+    document.getElementById("navbar").style.top = "-50px";
+  }
+  
+  prevScrollpos = currentScrollPos;
 }
