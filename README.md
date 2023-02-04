@@ -1,7 +1,7 @@
 This website is for Principio.
 The website is accesible online at:
 
-[tudisco-tutoring.netlify.app](https://tudisco-tutoring.netlify.app/)
+[principio-website.netlify.app](https://principio-website.netlify.app/)
 
 OR
 
