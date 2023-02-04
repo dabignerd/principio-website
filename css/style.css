@@ -26,7 +26,7 @@ p {
     padding-top: 1%;    
 }
 
-/* hide navbar when user scrolls down, but reappear when user scrolls up */
+/* navbar properties */
 #navbar {
     background-color: #333;
     position: fixed;
@@ -49,6 +49,7 @@ p {
     color: black;
 }
 
+/* space to enable scrolling */
 #holder {
     height: 100vh;
 }
