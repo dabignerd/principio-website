@@ -53,3 +53,8 @@ p {
 #holder {
     height: 100vh;
 }
+
+a {
+    color: blue;
+    text-decoration: none;
+}
