@@ -1,9 +1,9 @@
 <base target="_blank">
 This website is for Mr. Principio. The website is accesible online at the following links:
 
-- [principio-website.netlify.app](https://principio-website.netlify.app/)
+- <a href="https://principio-website.netlify.app/" target="_blank">principio-website.netlify.app</a>
 
-- [dabignerd.github.io/principio-website](https://dabignerd.github.io/principio-website/)
+- <a href="https://dabignerd.github.io/principio-website/" target="_blank">dabignerd.github.io/principio-website</a>
 
 &nbsp;
 
