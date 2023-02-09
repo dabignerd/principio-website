@@ -1,5 +1,4 @@
-<base target="_blank">
-This website is for Mr. Principio. The website is accesible online at the following links:
+##### This website is for Mr. Principio. The website is accesible online at the following links:
 
 - <a href="https://principio-website.netlify.app/" target="_blank">principio-website.netlify.app</a>
 
@@ -8,5 +7,4 @@ This website is for Mr. Principio. The website is accesible online at the follow
 &nbsp;
 
 Cheers,
-
-Dominic
+Dominic ✌
