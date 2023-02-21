@@ -1,4 +1,4 @@
-/* import Regular 400 font */
+/* import Poppins Regular 400 font */
 @import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
 
 * {
@@ -12,12 +12,11 @@ h1 {
     padding-top: 10vh;
 }
 
+/* center "pi" image */
 img {
-    /* center "pi" image */
     margin-left: auto;
     margin-right: auto;
     display: block;
-
     margin-top: 20vh;
 }
 
@@ -54,6 +53,7 @@ p {
     height: 100vh;
 }
 
+/* to make links look less disgusting*/
 a {
     color: blue;
     text-decoration: none;

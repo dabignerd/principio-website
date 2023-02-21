@@ -1,3 +1,4 @@
+// code for navigation bar effects
 var prevScrollPos = window.pageYOffset;
 
 window.onscroll = function() {
@@ -8,6 +9,5 @@ window.onscroll = function() {
   else {
     document.getElementById("navbar").style.top = "-100px";
   }
-  
   prevScrollPos = currentScrollPos;
 }
