@@ -58,3 +58,8 @@ a {
     color: blue;
     text-decoration: none;
 }
+
+h3.home {
+    text-align: center;
+    line-height: 2;
+}
