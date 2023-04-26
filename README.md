@@ -1,4 +1,5 @@
-##### This website is for Mr. Principio. The website is accesible online at the following links:
+##### This website is for Mr. Principio.
+##### Mirrors:
 
 - <a href="https://principio-website.netlify.app/" target="_blank">principio-website.netlify.app</a>
 
